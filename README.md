@@ -1,2 +1,2 @@
-# node-crash-course
-Course files for the Node.js Crash Course tutorial series on The Net Ninja YouTube channel.
+# node-course
+Course files for the Node.js Course using NodeJS,exress,mongodb,mongoose and mongodb atlas
